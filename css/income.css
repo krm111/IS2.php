@@ -1,0 +1,8 @@
+body{}
+.home{
+    width: 100px;
+    height: 50px;
+    border: 1px solid transparent;
+    margin-top: 258px;
+    text-align: center;
+}

@@ -1,0 +1,20 @@
+body{}
+.clearipage{
+    clear: both;
+}
+#midl{
+    float: left;
+    width: 647px;
+    height: 494px;
+    border: 1px solid transparent;
+}
+#midr{
+    float: right;
+    width: 647px;
+    height: 494px;
+    border: 1px solid transparent;
+}
+.clearmid{
+    clear: both;
+}
+

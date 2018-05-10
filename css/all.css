@@ -1,0 +1,23 @@
+body{}
+#principal{
+    width: 1300px;
+    height: 650px;
+    border: 1px solid #000000;
+    margin: 10px auto;
+}
+#ipage{
+    height: 100px;
+    border: 1px solid #000000;
+    text-align: center
+}
+#mid{
+    width: 1298px;
+    height: 496px;
+    border: 1px solid #000000;
+}
+#fpage{
+    height: 50px;
+    border: 1px solid #000000;
+    text-align: center
+}
+
